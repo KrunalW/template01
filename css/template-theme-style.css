@@ -1,0 +1,141 @@
+/*Template Theme CSS by Krunal D Wankhede__ UI designer & Developer*/
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6{line-height: 1.6;}
+
+.relative{position: relative;}
+.absolute{position: absolute;}
+
+.z-index--1{z-index: -1;}
+.z-index-0{z-index: 0;}
+.z-index-1{z-index: 1;}
+.z-index-2{z-index: 11;}
+.z-index-3{z-index: 111;}
+
+.overFlowHidden{overflow: hidden;}
+.overFlowAuto{overflow: auto;}
+.overFlowVisible{overflow: visible;}
+
+.mt-05{margin-top:0.3125rem !important;}
+.mt-10{margin-top: 0.3125rem !important;}
+.mt-15{margin-top: 0.9375rem !important;}
+.mt-20{margin-top: 1.25rem !important;}
+.mt-25{margin-top: 1.563rem !important;}
+.mt-30{margin-top: 1.875rem !important;}
+
+.mb-05{margin-bottom:0.3125rem !important;}
+.mb-10{margin-bottom: 0.3125rem !important;}
+.mb-15{margin-bottom: 0.9375rem !important;}
+.mb-20{margin-bottom: 1.25rem !important;}
+.mb-25{margin-bottom: 1.563rem !important;}
+.mb-30{margin-bottom: 1.875rem !important;}
+
+.ml-05{margin-left:0.3125rem !important;}
+.ml-10{margin-left: 0.3125rem !important;}
+.ml-15{margin-left: 0.9375rem !important;}
+.ml-20{margin-left: 1.25rem !important;}
+.ml-25{margin-left: 1.563rem !important;}
+.ml-30{margin-left: 1.875rem !important;}
+
+.mr-05{margin-right:0.3125rem !important;}
+.mr-10{margin-right: 0.3125rem !important;}
+.mr-15{margin-right: 0.9375rem !important;}
+.mr-20{margin-right: 1.25rem !important;}
+.mr-25{margin-right: 1.563rem !important;}
+.mr-30{margin-right: 1.875rem !important;}
+
+.pt-05{padding-top:0.3125rem !important;}
+.pt-10{padding-top: 0.3125rem !important;}
+.pt-15{padding-top: 0.9375rem !important;}
+.pt-20{padding-top: 1.25rem !important;}
+.pt-25{padding-top: 1.563rem !important;}
+.pt-30{padding-top: 1.875rem !important;}
+
+.pb-05{padding-bottom:0.3125rem !important;}
+.pb-10{padding-bottom: 0.3125rem !important;}
+.pb-15{padding-bottom: 0.9375rem !important;}
+.pb-20{padding-bottom: 1.25rem !important;}
+.pb-25{padding-bottom: 1.563rem !important;}
+.pb-30{padding-bottom: 1.875rem !important;}
+
+.pl-05{padding-left:0.3125rem !important;}
+.pl-10{padding-left: 0.3125rem !important;}
+.pl-15{padding-left: 0.9375rem !important;}
+.pl-20{padding-left: 1.25rem !important;}
+.pl-25{padding-left: 1.563rem !important;}
+.pl-30{padding-left: 1.875rem !important;}
+
+.pr-05{padding-right:0.3125rem !important;}
+.pr-10{padding-right: 0.3125rem !important;}
+.pr-15{padding-right: 0.9375rem !important;}
+.pr-20{padding-right: 1.25rem !important;}
+.pr-25{padding-right: 1.563rem !important;}
+.pr-30{padding-right: 1.875rem !important;}
+
+@media (max-width: 767px){
+.mt-xs-05{margin-top:0.3125rem !important;}
+.mt-xs-10{margin-top: 0.3125rem !important;}
+.mt-xs-15{margin-top: 0.9375rem !important;}
+.mt-xs-20{margin-top: 1.25rem !important;}
+.mt-xs-25{margin-top: 1.563rem !important;}
+.mt-xs-30{margin-top: 1.875rem !important;}
+
+.mb-xs-05{margin-bottom:0.3125rem !important;}
+.mb-xs-10{margin-bottom: 0.3125rem !important;}
+.mb-xs-15{margin-bottom: 0.9375rem !important;}
+.mb-xs-20{margin-bottom: 1.25rem !important;}
+.mb-xs-25{margin-bottom: 1.563rem !important;}
+.mb-xs-30{margin-bottom: 1.875rem !important;}
+
+.ml-xs-05{margin-left:0.3125rem !important;}
+.ml-xs-10{margin-left: 0.3125rem !important;}
+.ml-xs-15{margin-left: 0.9375rem !important;}
+.ml-xs-20{margin-left: 1.25rem !important;}
+.ml-xs-25{margin-left: 1.563rem !important;}
+.ml-xs-30{margin-left: 1.875rem !important;}
+
+.mr-xs-05{margin-right:0.3125rem !important;}
+.mr-xs-10{margin-right: 0.3125rem !important;}
+.mr-xs-15{margin-right: 0.9375rem !important;}
+.mr-xs-20{margin-right: 1.25rem !important;}
+.mr-xs-25{margin-right: 1.563rem !important;}
+.mr-xs-30{margin-right: 1.875rem !important;}
+
+.pt-xs-05{padding-top:0.3125rem !important;}
+.pt-xs-10{padding-top: 0.3125rem !important;}
+.pt-xs-15{padding-top: 0.9375rem !important;}
+.pt-xs-20{padding-top: 1.25rem !important;}
+.pt-xs-25{padding-top: 1.563rem !important;}
+.pt-xs-30{padding-top: 1.875rem !important;}
+
+.pb-xs-05{padding-bottom:0.3125rem !important;}
+.pb-xs-10{padding-bottom: 0.3125rem !important;}
+.pb-xs-15{padding-bottom: 0.9375rem !important;}
+.pb-xs-20{padding-bottom: 1.25rem !important;}
+.pb-xs-25{padding-bottom: 1.563rem !important;}
+.pb-xs-30{padding-bottom: 1.875rem !important;}
+
+.pl-xs-05{padding-left:0.3125rem !important;}
+.pl-xs-10{padding-left: 0.3125rem !important;}
+.pl-xs-15{padding-left: 0.9375rem !important;}
+.pl-xs-20{padding-left: 1.25rem !important;}
+.pl-xs-25{padding-left: 1.563rem !important;}
+.pl-xs-30{padding-left: 1.875rem !important;}
+
+.pr-xs-05{padding-right:0.3125rem !important;}
+.pr-xs-10{padding-right: 0.3125rem !important;}
+.pr-xs-15{padding-right: 0.9375rem !important;}
+.pr-xs-20{padding-right: 1.25rem !important;}
+.pr-xs-25{padding-right: 1.563rem !important;}
+.pr-xs-30{padding-right: 1.875rem !important;}
+}
+
+.btn-theme-tmp{border-radius: 1.25rem; font-size: 0.5625rem; text-transform: uppercase; font-weight: 700; letter-spacing: 2px}
+.btn-theme-tmp-default{background: #FFFFFF; color: rgba(59, 44, 44, 1);}
+.btn-theme-tmp.btn-lg{border-radius: 2.5rem; padding:1.25rem 2rem;}
+.btn-theme-tmp-red{background:#ff6363; color: rgba(255, 255, 255, 1);}
+.btn-theme-tmp-bordered{border: #fff0f0 2px solid; color: #ff6363; background: #FFF;}
+
+
+@media (max-width: 1024px){
+    .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {line-height: 1.4;}
+    .h3, h3 {font-size: 1.5rem;}
+}
